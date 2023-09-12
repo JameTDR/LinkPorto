@@ -37,10 +37,11 @@ html {
 }
 
 .profile>p {
+  margin-top: 5%;
   font-size: 1.8em;
   font-weight: 900;
   letter-spacing: 2px;
-  color: #fff;
+  color: blueviolet;
   text-transform: capitalize;
   text-align: center;
 }
